@@ -1,0 +1,31 @@
+/* https://fonts.google.com/specimen/Space+Grotesk?selection.family=Space+Grotesk&sidebar.open=true&query=space */
+/* https://developers.google.com/fonts/docs/getting_started */
+ 
+body {
+    font-family: 'Space Mono', monospace;
+    font-size: 14px;
+    color: #023047;
+    background-color: #fffbee;
+ }
+  
+ h1 {
+    font-family: 'Space Grotesk';
+    font-weight: bold;
+    font-size: 36px;
+    color: #FF4E00
+ }
+  
+ h2 {
+    font-family: 'Space Grotesk';
+    font-weight: normal;
+    font-size: 24px;
+    color: #FF753A;
+ }
+  
+ h3{
+    font-family: 'Space Mono';
+    font-weight: bold;
+    font-size: 18px;
+ }
+ 
+ 
